@@ -9,3 +9,5 @@ as a data analyst and an enjoyer of the sport.
 After doing some research it seems most statisics from 2010 - 2020 are readily available are well documented in spreedsheets. Most likely going to use data from this time period
 
 Need to create new database for data. Might shorten the data to work with it in excel as well. 
+
+Importing data to excel has not been great. Most of the sets have been too large to work with. Going to go towards using microsoft sql instead and use excel for smaller data dets.
