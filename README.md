@@ -11,3 +11,5 @@ After doing some research it seems most statisics from 2010 - 2020 are readily a
 Need to create new database for data. Might shorten the data to work with it in excel as well. 
 
 Importing data to excel has not been great. Most of the sets have been too large to work with. Going to go towards using microsoft sql instead and use excel for smaller data dets.
+
+Made a new database and set up microsoft sql system manager. seems better to use than mysql.
