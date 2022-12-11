@@ -15,3 +15,5 @@ Importing data to excel has not been great. Most of the sets have been too large
 Made a new database and set up microsoft sql system manager. seems better to use than mysql.
 
 Working with this has been alot difficult to understand the small differences but overall feels more fluid than mysql. Will be spending time as well learning new commands that are exclusive to microsoft.
+
+Learning tableau to vizulaze data. Has been hard to convert sql data.
